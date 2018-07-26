@@ -1,0 +1,47 @@
+[
+    {
+        "ID": 1,
+        "Name": "Friesian Arabian cross",
+        "species": "Horse",
+        "Sex": true,
+        "Age": "14 year old",
+        "Owner": {
+            "Name":"Rebecca",
+            "Phone":"801-111-2222",
+            "Email":"Rebecca@gmail.com"
+            },
+        "Notes": {
+            "Note1": "He's been in professional training for 2 years"
+        }
+    },
+    {
+        "ID": 2,
+        "Name": "Holland",
+        "species": "Rabbit",
+        "Sex": false,
+        "Age": "six weeks old",
+        "Owner": {
+            "Name":"Katie",
+            "Phone":"801-878-5484",
+            "Email":"Katie@gmail.com"
+            },
+        "Notes": {
+            "Note1": "Do not have more info about it"
+        }
+    },
+    {
+        "ID": 3,
+        "Name": "Russian Tortoises",
+        "species": "Tortoises",
+        "Sex": true,
+        "Age": "5 Month old",
+        "Owner": {
+            "Name":"Julie",
+            "Phone":"801-789-4455",
+            "Email":"Julie@gmail.com"
+            },
+        "Notes": {
+            "Note1": "Don't have more info about it "
+        }
+    }
+]

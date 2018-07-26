@@ -1,0 +1,62 @@
+[
+    {
+        "ID": 1,
+        "Name": "Husky",
+        "Breed": "Siberian Husky",
+        "Sex": true,
+        "Shot": "Yes",
+        "Age": "2 years",
+        "Size": 70,
+        "Licensed": "A064705",
+        "Owner": {
+            "Name":"Ryker",
+            "Phone":"801-225-5555",
+            "Email":"Ryker@gmail.com"
+        },
+        "Notes": {
+            "Note1": "12 to 16 months (Rabies, DHPP) - Coronavirus, Leptospirosis, Boradetella, Lyme disease",
+            "Note2": "Every 1 to 2 years (DHPP) - Coronavirus, Leptospirosis, Bordetella, Lyme disease",
+            "Note3": "Every 1 to 3 years (Rabies (as required by law)) - None"
+        }
+    },
+    {
+        "ID": 2,
+        "Name": "SISSY",
+        "Breed": "Yorkshire Yorkie",
+        "Sex": false,
+        "Shot": "Yes",
+        "Age": "1 year",
+        "Size": 45,
+        "Owner": {
+            "Name":"Hozhoni",
+            "Phone":"801-111-2222",
+            "Email":"Hozhoni@gmail.com"
+            },
+        "Licensed": "A899765",
+        "Notes": {
+            "Note1": "12 to 16 months (Rabies, DHPP) - Coronavirus, Leptospirosis, Boradetella, Lyme disease",
+            "Note2": "Clean Muddy Paws",
+            "Note3": "Visit our clinic last week to take appointment for next shot"
+        }
+    },
+    {
+        "ID": 3,
+        "Name": "AKC",
+        "Breed": "Pomeranian Dog",
+        "Sex": true,
+        "Shot": "yes",
+        "Age": "5 Months",
+        "Size": 21,
+        "Owner": {
+            "Name":"Mary",
+            "Phone":"801-252-5598",
+            "Email":"Mary@gmail.com"
+            },
+        "Licensed": "A883096",
+        "Notes": {
+            "Note1": "14 to 16 weeks (DHPP) - Coronavirus, Lyme disease, Leptospirosis",
+            "Note2": "12 to 16 months (Rabies, DHPP) - Coronavirus, Leptospirosis, Boradetella, Lyme disease",
+            "Note3": "Clean Muddy Paws"
+        }
+    }
+]
